@@ -1,0 +1,16 @@
+Hypothesis 1: Risk differences across provinces (Claim Frequency)
+Chi2: 8.468608611105179, p-value: 0.0372575461922532
+Result: Reject Null Hypothesis (Significant difference)
+------------------------------
+Hypothesis 2: Risk differences between zipcodes (TotalClaims ANOVA)
+F-stat: 2.319244591136231, p-value: 0.03009998088307308
+Result: Reject Null Hypothesis
+------------------------------
+Hypothesis 3: Margin differences between zipcodes (ANOVA)
+F-stat: 2.2731119167813403, p-value: 0.0332176914602807
+Result: Reject Null Hypothesis
+------------------------------
+Hypothesis 4: Risk differences between Women and Men (T-test on TotalClaims)
+T-stat: 0.01542691229028861, p-value: 0.9876946800186547
+Result: Fail to Reject Null Hypothesis
+------------------------------

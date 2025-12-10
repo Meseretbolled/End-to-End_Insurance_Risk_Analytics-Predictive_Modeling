@@ -1,0 +1,11 @@
+[flake8]
+exclude =
+    .git,
+    __pycache__,
+    dvc_storage,
+    data,
+    notebooks,
+    .dvc,
+    .github
+max-line-length = 127
+max-complexity = 10

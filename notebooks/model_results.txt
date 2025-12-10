@@ -1,0 +1,3 @@
+Linear Regression - RMSE: 16176.75, R2: -0.26
+Random Forest - RMSE: 14751.44, R2: -0.05
+XGBoost - RMSE: 16323.62, R2: -0.29
